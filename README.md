@@ -14,6 +14,7 @@ Netbeans, Java SDK
 <ul> 
 <li>Desktop Based Chat Application</li>
 <li>One Server-Several CLients Chat</li>
-
-
+<li>Shows which user is online</li>
+<li>File Sharing Option </li>
+<li>Manual Emoticons Sharing</li>
 </ul>
