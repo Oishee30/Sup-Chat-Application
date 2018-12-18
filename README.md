@@ -1,7 +1,11 @@
 # Sup-Chat-Application
 
 <h3>Features</h3>
+<ul>
+<li>
 Netbeans, Java SDK
+</ul>
+</li>
 </br>
 
 [![Watch the video](https://github.com/Oishee30/Sup-Chat-Application/blob/master/SUP.PNG)](https://youtu.be/rwZ_1mTtTpo)
