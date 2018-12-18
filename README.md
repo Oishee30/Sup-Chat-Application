@@ -2,7 +2,8 @@
 
 <h3>Features</h3>
 Netbeans, Java SDK
-<br>
+</br>
+
 [![Watch the video](https://github.com/Oishee30/Sup-Chat-Application/blob/master/SUP.PNG)](https://youtu.be/rwZ_1mTtTpo)
 
 <h3>Features</h3>
